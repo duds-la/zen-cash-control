@@ -1,5 +1,5 @@
 
-# Your Pomodoro Timer
+# Your Cash Control
 
 **Imagine yourself** as a clown in a financial circus 🤡, and every time you spend money, you do a magic trick to see the money disappear from your wallet 🎩💸. It's like you're using a magic wand ✨ and saying, "Abracadabra, money, go away!" But zen-cash-control is here to make sure you know exactly where your money has gone.
 
@@ -12,6 +12,8 @@ But the most fun part is when you're about to spend more than you should. zen-ca
 And of course, when you finally save money, zen-cash-control celebrates with virtual fireworks 🎆🎉 and confetti 🎊, and says, "You're a master financier! Keep it up!" 🎈👏
 
 So, the next time you need to control your cash inflows and outflows, remember the financial circus and zen-cash-control, the app that transforms your finances into an exciting and funny performance! 🤑🎉🎪🎈
+
+
 
 
 ## Author
